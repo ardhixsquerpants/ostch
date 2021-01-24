@@ -5,9 +5,12 @@
 <details>
  <summary>🥟 Help me!</summary>
 
- [Saweria](https://saweria.co/donate/ibnusyawall)
+ [Saweria](https://saweria.co/donate/4rd1)
  
- [Paypal.me](https://paypal.me/syawal24)
+ [DANA](088294052009)
+ [OVO](088294052009)
+ [GOPAY](088294052009)
+ [PULSA](088294052009)
  
 </details>
 </div>

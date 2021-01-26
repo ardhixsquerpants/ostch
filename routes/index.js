@@ -70,6 +70,10 @@ require('dotenv').config()
     res.render('curig', {host: process.env.S_HOST, title: "Ardhi Xsquerpant'S - API's"})
   })
 
+  router.get('/doc/nulis', (req, res) => {
+    res.render('nulis', {host: process.env.S_HOST, title: "Ardhi Xsquerpant'S - API's"})
+  })
+
   router.get('/doc/hilih', (req, res) => {
     res.render('hilih', {host: process.env.S_HOST, title: "Ardhi Xsquerpant'S - API's"})
   })
